@@ -5,24 +5,33 @@
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Events](#events)
+- [Organizations](#organizations)
 
 
-## Section
+## Events
 
-About this section. Optional. Keep this short and focus on the list.
+A list of IT-related events, found in the Kosovo area.
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+[Meetups](#meetups) • [Conferences](#conferences)
 
-
-## Another Section
-
-### Subsection
+### Meetups
 
 - [List item](http://example.com)
-- [List item](http://example.com)
+
+### Conferences
+
+- [Doku.tech](http://doku.tech/)
+
+## Organizations
+
+A list of IT-related organizations, found in the Kosovo area.
+
+[Incubators](#incubators)
+
+### Incubators
+
+- [Innovation Centre Kosovo](https://ickosovo.com/)
 
 
 ## Contribute
