@@ -7,7 +7,9 @@
 
 - [Events](#events)
 - [Organizations](#organizations)
+- [Online communities](#online-communities)
 
+---
 
 ## Events
 
@@ -17,11 +19,13 @@ A list of IT-related events, found in the Kosovo area.
 
 ### Meetups
 
-- [List item](http://example.com)
+- [ProductTank Prishtina](https://www.meetup.com/ProductTank-Prishtina/)
 
 ### Conferences
 
 - [Doku.tech](http://doku.tech/)
+
+---
 
 ## Organizations
 
@@ -33,11 +37,21 @@ A list of IT-related organizations, found in the Kosovo area.
 
 - [Innovation Centre Kosovo](https://ickosovo.com/)
 
+---
+
+## Online communities
+
+A list of online communities, targeted to Albanian IT workers.
+
+- [Komuniteti i programuesve shqiptarë](https://www.facebook.com/groups/1476010482525138)
+
+---
 
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
+---
 
 ## License
 

@@ -8,9 +8,9 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- Make sure to write out the full name of event/organization
+- If possible, add any links to official websites or social media channels
+- Please check that the link is still alive
 
 Thank you for your suggestions!
 
