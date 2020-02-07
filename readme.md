@@ -24,6 +24,7 @@ A list of IT-related events, found in the Kosovo area.
 ### Conferences
 
 - [Doku.tech](http://doku.tech/)
+- [ICT Kosovo Career Day](https://ictkosovo.net/)
 
 ---
 
@@ -31,11 +32,15 @@ A list of IT-related events, found in the Kosovo area.
 
 A list of IT-related organizations, found in the Kosovo area.
 
-[Incubators](#incubators)
+[Incubators](#incubators) • [Non-profits](#non-profits)
 
 ### Incubators
 
 - [Innovation Centre Kosovo](https://ickosovo.com/)
+
+### Non-profits
+
+- [Open Data Kosovo](https://opendatakosovo.org/)
 
 ---
 
